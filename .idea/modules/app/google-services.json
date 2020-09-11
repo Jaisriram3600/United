@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576257694827",
+    "firebase_url": "https://united-dd921.firebaseio.com",
+    "project_id": "united-dd921",
+    "storage_bucket": "united-dd921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576257694827:android:c6e431e77b773afec7a52e",
+        "android_client_info": {
+          "package_name": "com.example.united"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576257694827-nha68mgcmlefrn9deer38it31p3t557g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.united",
+            "certificate_hash": "611c930215a6ca14cacb3c552f16fb1223fd637b"
+          }
+        },
+        {
+          "client_id": "576257694827-2vvo0uma7ja1dmqq8nd1je5k67d6empi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAworyxPvRh35UMSgFhh-yVQTd45KCu2cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576257694827-2vvo0uma7ja1dmqq8nd1je5k67d6empi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
